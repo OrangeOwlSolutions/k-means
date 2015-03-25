@@ -1,0 +1,3 @@
+# k-means
+
+k-means algorithm in Matlab, C/C++ and CUDA. Under construction...
